@@ -12,7 +12,7 @@ Extract data using SHOW, DESCRIBE and SELECT, Setting Criteria with WHERE, Forma
 ## Queries to Summarize Groups of Data from Multiple Tables
 Joining Tables, Inner Joins, Outer Joins
 
-[[Summary](https://github.com/digadigadoo/Managing_Big_Data_with_MySQL/blob/master/week_3.md) | [Exercises](https://github.com/digadigadoo/Managing_Big_Data_with_MySQL/blob/master/exercises_jupyter_week_3.sql) | [Quiz (TO ADD!)](https://github.com/digadigadoo/Managing_Big_Data_with_MySQL/blob/master/quiz_week_3.sql)]
+[[Summary](https://github.com/digadigadoo/Managing_Big_Data_with_MySQL/blob/master/week_3.md) | [Exercises](https://github.com/digadigadoo/Managing_Big_Data_with_MySQL/blob/master/exercises_jupyter_week_3.sql) | [Quiz)](https://github.com/digadigadoo/Managing_Big_Data_with_MySQL/blob/master/quiz_week_3.sql)]
 
 ## Week 4
 Subqueries and Derived Tables, Logical Functions, Working Through Your Dognition Analysis Plan
